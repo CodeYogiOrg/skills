@@ -5,7 +5,7 @@ Script to Remotion video, built interactively one dialog line at a time. Asks fi
 **Install**
 
 ```bash
-claude plugin marketplace add CodeYogiOrg/office-skills   # once per machine
+claude plugin marketplace add CodeYogiOrg/skills   # once per machine
 claude plugin install create-video@codeyogi
 ```
 

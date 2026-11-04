@@ -5,7 +5,7 @@ Converts text in a file or a selection to another language, asking which languag
 **Install**
 
 ```bash
-claude plugin marketplace add CodeYogiOrg/office-skills   # once per machine
+claude plugin marketplace add CodeYogiOrg/skills   # once per machine
 claude plugin install language@codeyogi
 ```
 

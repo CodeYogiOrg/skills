@@ -5,7 +5,7 @@ Karaoke subtitle screen from an audio file: each sentence appears whole in grey,
 **Install**
 
 ```bash
-claude plugin marketplace add CodeYogiOrg/office-skills   # once per machine
+claude plugin marketplace add CodeYogiOrg/skills   # once per machine
 claude plugin install subtitle-screen@codeyogi
 ```
 
