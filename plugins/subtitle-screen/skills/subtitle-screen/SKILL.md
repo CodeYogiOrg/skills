@@ -11,7 +11,7 @@ Run this first, every single time this skill is invoked:
 D=~/.claude/office-skills; [ -d "$D/.git" ] || git clone -q --depth 1 -b learnings --single-branch https://github.com/CodeYogiOrg/skills.git "$D"; bash "$D/scripts/sync.sh" subtitle-screen subtitle-screen
 ```
 
-It pulls the `office-skills` repo and prints every learning pushed for this skill
+It pulls the `skills` repo and prints every learning pushed for this skill
 since anyone last ran it. **Obey what it prints.** Where a learning and this file
 disagree, the learning wins — it is newer by definition.
 

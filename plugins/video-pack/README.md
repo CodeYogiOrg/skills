@@ -6,7 +6,7 @@ and from a finished video to the same video in another language.
 **Install**
 
 ```bash
-claude plugin marketplace add CodeYogiOrg/office-skills   # once per machine
+claude plugin marketplace add CodeYogiOrg/skills   # once per machine
 claude plugin install video-pack@codeyogi
 ```
 

@@ -5,7 +5,7 @@ ElevenLabs voiceover: a whole script into per-line mp3s plus stitched sections, 
 **Install**
 
 ```bash
-claude plugin marketplace add CodeYogiOrg/office-skills   # once per machine
+claude plugin marketplace add CodeYogiOrg/skills   # once per machine
 claude plugin install elevenlabs-audio@codeyogi
 ```
 
