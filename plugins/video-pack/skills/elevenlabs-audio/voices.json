@@ -1,0 +1,14 @@
+{
+  "comment": "Character voices for the AI Builder Course (Harshit picked these in ElevenLabs, 2026-07-20). model: eleven_v3 LOCKED by Harshit after the tts-samples A/B listen test (2026-07-20) — don't switch without his say-so. settings are optional ElevenLabs voice_settings overrides.",
+  "model": "eleven_v3",
+  "characters": {
+    "teacher": {
+      "name": "Ranbir - Calm, Steady and Clear",
+      "voice_id": "SGbOfpm28edC83pZ9iGb"
+    },
+    "gulla": {
+      "name": "Adik M - Animated Comedy Character",
+      "voice_id": "Y921BUrS17GL37pctIb8"
+    }
+  }
+}

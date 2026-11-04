@@ -1,0 +1,10 @@
+{
+  "name": "create-video",
+  "version": "1.0.0",
+  "description": "Script to Remotion video, built interactively one dialog line at a time. Asks first whether there is a character, whether it lip-syncs and where the voice comes from \u2014 nothing is assumed.",
+  "author": {
+    "name": "CodeYogi"
+  },
+  "repository": "https://github.com/CodeYogiOrg/office-skills",
+  "license": "UNLICENSED"
+}

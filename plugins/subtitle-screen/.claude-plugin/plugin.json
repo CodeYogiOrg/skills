@@ -1,0 +1,10 @@
+{
+  "name": "subtitle-screen",
+  "version": "1.0.0",
+  "description": "Karaoke subtitle screen from an audio file: each sentence appears whole in grey, then every letter deepens to blue in sync with the voice.",
+  "author": {
+    "name": "CodeYogi"
+  },
+  "repository": "https://github.com/CodeYogiOrg/office-skills",
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "language",
+  "version": "1.0.0",
+  "description": "Converts text in a file or a selection to another language, asking which language first.",
+  "author": {
+    "name": "CodeYogi"
+  },
+  "repository": "https://github.com/CodeYogiOrg/office-skills",
+  "license": "UNLICENSED"
+}

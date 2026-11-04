@@ -1,0 +1,10 @@
+{
+  "name": "hedra-gulla-video",
+  "version": "1.0.0",
+  "description": "Green-screen talking-character clips from line audio via Hedra, ready for a chroma-key pipeline.",
+  "author": {
+    "name": "CodeYogi"
+  },
+  "repository": "https://github.com/CodeYogiOrg/office-skills",
+  "license": "UNLICENSED"
+}

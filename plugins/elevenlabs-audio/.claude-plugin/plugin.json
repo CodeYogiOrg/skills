@@ -1,0 +1,10 @@
+{
+  "name": "elevenlabs-audio",
+  "version": "1.0.0",
+  "description": "ElevenLabs voiceover: a whole script into per-line mp3s plus stitched sections, one section, or a single re-take of a flubbed line.",
+  "author": {
+    "name": "CodeYogi"
+  },
+  "repository": "https://github.com/CodeYogiOrg/office-skills",
+  "license": "UNLICENSED"
+}

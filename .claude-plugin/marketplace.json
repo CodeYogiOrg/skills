@@ -1,0 +1,48 @@
+{
+  "name": "codeyogi",
+  "owner": {
+    "name": "CodeYogi",
+    "url": "https://github.com/CodeYogiOrg"
+  },
+  "metadata": {
+    "description": "CodeYogi skills for making videos with Claude Code — install only the ones you need"
+  },
+  "plugins": [
+    {
+      "name": "video-pack",
+      "version": "1.0.0",
+      "source": "./plugins/video-pack",
+      "description": "The CodeYogi video pack — three skills in one install: create-video (script → Remotion video), elevenlabs-audio (voiceover), translate-video (an existing video in another language). Start here."
+    },
+    {
+      "name": "create-video",
+      "version": "1.0.0",
+      "source": "./plugins/create-video",
+      "description": "Script to Remotion video, built interactively one dialog line at a time. Asks first whether there is a character, whether it lip-syncs and where the voice comes from — nothing is assumed."
+    },
+    {
+      "name": "elevenlabs-audio",
+      "version": "1.0.0",
+      "source": "./plugins/elevenlabs-audio",
+      "description": "ElevenLabs voiceover: a whole script into per-line mp3s plus stitched sections, one section, or a single re-take of a flubbed line."
+    },
+    {
+      "name": "hedra-gulla-video",
+      "version": "1.0.0",
+      "source": "./plugins/hedra-gulla-video",
+      "description": "Green-screen talking-character clips from line audio via Hedra, ready for a chroma-key pipeline."
+    },
+    {
+      "name": "subtitle-screen",
+      "version": "1.0.0",
+      "source": "./plugins/subtitle-screen",
+      "description": "Karaoke subtitle screen from an audio file: each sentence appears whole in grey, then every letter deepens to blue in sync with the voice."
+    },
+    {
+      "name": "language",
+      "version": "1.0.0",
+      "source": "./plugins/language",
+      "description": "Converts text in a file or a selection to another language, asking which language first."
+    }
+  ]
+}

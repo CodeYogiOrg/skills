@@ -1,0 +1,10 @@
+{
+  "name": "video-pack",
+  "version": "1.0.0",
+  "description": "The CodeYogi video pack — three skills in one install: script to Remotion video, ElevenLabs voiceover, and shipping an existing video in another language.",
+  "author": {
+    "name": "CodeYogi"
+  },
+  "repository": "https://github.com/CodeYogiOrg/office-skills",
+  "license": "UNLICENSED"
+}
